@@ -119,6 +119,6 @@ Democratizing software access through:
 
 *"Building tomorrow's solutions with today's technology"*
 
-[Website](https://codefrost.dev) • [Portfolio](https://mamerto.codefrost.dev/) • [YouTube Channel](https://youtube.com/@aidrivencoder) • [Blog](https://aidrivencoder.com)
+[Website](https://codefrost.dev) • [Portfolio](https://mamerto.codefrost.dev/) • [YouTube Channel](https://youtube.com/@aidrivencoder)
 
 </div>
