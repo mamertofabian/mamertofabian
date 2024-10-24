@@ -12,8 +12,10 @@ With over two decades of software development experience, I specialize in crafti
 ## 💼 Professional Background
 
 - ⚡ 20+ years in software development
+- 💻 Full-stack development expertise spanning C#, .NET, Python, Django
+- 🎨 Frontend mastery in JavaScript, Angular, Svelte, and React
 - 🏗️ Experience with e-commerce, construction management systems, and international engineering projects
-- 📊 Database engineering and architecture
+- 📊 Extensive database engineering experience
 - 🌐 Global project experience across multiple industries
 
 ## 🚀 What I Do
@@ -52,11 +54,16 @@ I'm building a comprehensive resource for developers navigating the AI-powered d
 
 ## 📫 Connect With Me
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aidrivencoder)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aidrivencoder)
+[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codefrost.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamerto)
+
+## 📅 Let's Talk
 - 📧 Email: mamerto@codefrost.com
-- 🔗 LinkedIn: [mamerto](https://linkedin.com/in/mamerto)
-- 📺 YouTube: [@aidrivencoder](https://youtube.com/@aidrivencoder)
-- 📅 Schedule a call: [Calendly](https://calendly.com/mamerto/30min)
-- 💻 GitHub: [mamertofabian](https://github.com/mamertofabian)
+- 🗓️ Schedule a call: [Calendly](https://calendly.com/mamerto/30min)
+- 💼 Portfolio: [View My Work](https://mamerto.codefrost.dev/)
+- 💻 Company: [Codefrost](https://codefrost.dev)
 
 ## 🤝 Open for Collaboration
 
@@ -98,6 +105,13 @@ Democratizing software access through:
 - 💳 Secure payment processing
 - 📊 Impact tracking
 - 🔒 Privacy-first approach
+
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mamertofabian&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamertofabian&layout=compact&theme=dracula)](https://github.com/mamertofabian)
 
 ---
 
