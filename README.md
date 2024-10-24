@@ -1,58 +1,80 @@
 # 👋 Hi, I'm Mamerto Fabian Jr.
 
-> 🚀 AI Solutions Architect & Founder of Codefrost  
-> 🔮 Building AI-Driven Coder | Open Source Enthusiast  
-> 💡 Specializing in AI-powered development solutions
+> AI Solutions Architect & Founder of Codefrost | Building AI-Driven Solutions
 
-With over two decades of software development experience, I'm passionate about bridging traditional development with AI-powered solutions. Currently leading [Codefrost](https://codefrost.dev), where we transform ideas into robust software solutions.
+With over 20 years in software development, I specialize in creating innovative AI-powered applications and enterprise solutions. I'm passionate about leveraging cutting-edge technologies to solve complex business challenges.
 
-## 🛠 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mamerto)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://mamerto.codefrost.dev/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/@aidrivencoder)
+[![Website](https://img.shields.io/badge/Website-Codefrost-purple)](https://codefrost.dev)
 
-- 🌐 Full-stack development with modern tech stacks
-- 🤖 AI-powered application development
-- 🚀 SaaS white-labeling and custom web solutions
-- 📱 Progressive Web Apps (PWAs)
-- 🎓 Share knowledge through [AI-Driven Coder](https://youtube.com/@aidrivencoder)
+## 🚀 What I Do
 
-## 🌟 Featured Project: AI-Driven Coder
+- Founder of [Codefrost Software Development Services](https://codefrost.dev)
+- Creator of [AI-Driven Coder](https://aidrivencoder.com) - A YouTube channel demystifying AI-powered development
+- Full-stack development with modern technologies
+- AI solution architecture and implementation
+- SaaS product development and white-labeling
 
-I'm building a comprehensive resource for developers navigating the AI-powered development landscape. Through [AI-Driven Coder](https://aidrivencoder.com), I share:
+## 🛠️ Featured Products
 
-- 🎥 Practical tutorials on AI development tools
-- 🔧 Real-world implementation challenges and solutions
-- 💻 Best practices for AI-assisted development
-- 🤝 Integration strategies for tools like Claude Artifacts, Aider, and more
+### [TrulyHappy](https://trulyhappy.app)
+An AI-powered progressive web app fostering lasting happiness and well-being through:
+- 📊 Contentment tracking with personalized insights
+- 💪 Resilience-building exercises
+- 🌟 Hope cultivation techniques
+- 🎯 AI-driven personalized recommendations
 
-## 💼 Professional Background
+### [ArticuLearn](https://articulearn.app)
+Revolutionary speech training platform featuring:
+- 🗣️ Advanced shadowing techniques
+- 🎯 Personalized learning paths
+- 🎤 Real-time speech recognition
+- 🎮 Gamified learning experience
 
-- ⚡ 20+ years in software development
-- 🏗️ Experience with e-commerce, construction management systems, and international engineering projects
-- 📊 Database engineering and architecture
-- 🌐 Global project experience across multiple industries
+### [SubsidyShare](https://subsidyshare.com)
+Democratizing software access through:
+- 🤝 Smart sponsor-user matching
+- 💳 Secure payment processing
+- 📊 Impact tracking
+- 🔒 Privacy-first approach
+
+## 💡 Expertise
+
+- AI/ML Solutions Architecture
+- Full-Stack Development
+- Progressive Web Apps (PWAs)
+- SaaS Development & White-labeling
+- Database Engineering
+- Cloud Architecture
 
 ## 🔧 Tech Stack
 
-- **Backend**: C#, .NET, Python, Django
-- **Frontend**: JavaScript, Angular, Svelte, React
-- **Database**: Various SQL and NoSQL solutions
-- **AI Integration**: LLM APIs, AI development tools
+- Languages: C#, Python, JavaScript/TypeScript
+- Frameworks: .NET, Django, Angular, React, Svelte
+- Cloud: AWS, Azure, GCP
+- Database: SQL Server, PostgreSQL, MongoDB
+- AI/ML: TensorFlow, PyTorch, Hugging Face
 
 ## 📫 Connect With Me
 
-- 🌐 [Portfolio](https://mamerto.codefrost.dev)
-- 💼 [LinkedIn](https://linkedin.com/in/mamerto)
-- 📺 [YouTube](https://youtube.com/@aidrivencoder)
-- 🐱 [GitHub](https://github.com/mamertofabian)
-- 📧 [Email](mailto:mamerto@codefrost.com)
-- 📅 [Schedule a Call](https://calendly.com/mamerto/30min)
+- 📧 Email: mamerto@codefrost.com
+- 🔗 LinkedIn: [mamerto](https://linkedin.com/in/mamerto)
+- 📺 YouTube: [@aidrivencoder](https://youtube.com/@aidrivencoder)
+- 📅 Schedule a call: [Calendly](https://calendly.com/mamerto/30min)
+- 💻 GitHub: [mamertofabian](https://github.com/mamertofabian)
 
-## 🤝 Open for Collaboration
+## 🎯 Current Focus
 
-I'm always interested in connecting with fellow developers and potential collaborators. Whether you're interested in:
+I'm currently focused on developing AI-powered tools and creating educational content about AI-assisted development. Through [AI-Driven Coder](https://aidrivencoder.com), I share practical insights and real-world applications of AI in software development, helping developers navigate the evolving landscape of modern programming.
 
-- 🤖 AI-powered development solutions
-- 🌐 Full-stack web development
-- 📱 Progressive Web Apps
-- 🚀 SaaS projects
+---
 
-Feel free to reach out through any of my channels above!
+<div align="center">
+
+*"Building tomorrow's solutions with today's technology"*
+
+[Website](https://codefrost.dev) • [Portfolio](https://mamerto.codefrost.dev/) • [Blog](https://aidrivencoder.com)
+
+</div>
