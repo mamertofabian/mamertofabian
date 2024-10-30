@@ -106,13 +106,6 @@ Democratizing software access through:
 - 📊 Impact tracking
 - 🔒 Privacy-first approach
 
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mamertofabian&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamertofabian&layout=compact&theme=dracula)](https://github.com/mamertofabian)
-
 ---
 
 <div align="center">
