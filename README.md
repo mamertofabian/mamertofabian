@@ -57,6 +57,7 @@ I'm building a comprehensive resource for developers navigating the AI-powered d
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aidrivencoder)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aidrivencoder)
 [![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codefrost.dev)
+[![GitHub (aidrivencoder)](https://img.shields.io/badge/GitHub-aidrivencoder-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aidrivencoder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamerto)
 
 ## 📅 Let's Talk
