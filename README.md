@@ -1,50 +1,70 @@
 # 👋 Hi, I'm Mamerto Fabian Jr.
 
-> AI Solutions Architect & Founder of Codefrost | Building AI-Driven Solutions
+> Founder & CEO of Codefrost • AI Solutions Architect • Creator of AI-Driven Coder
 
-With over two decades of software development experience, I specialize in crafting AI-powered applications and innovative development solutions. I'm passionate about leveraging cutting-edge technologies to solve real-world problems.
+With over two decades of software development experience, I lead [Codefrost](https://codefrost.dev), a software development company specializing in AI-powered solutions and innovative SaaS products. Through our YouTube channel [AI-Driven Coder](https://youtube.com/@aidrivencoder), we share cutting-edge AI development techniques and tools with our growing community.
 
+[![Codefrost](https://img.shields.io/badge/Codefrost-Visit-purple)](https://codefrost.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://mamerto.codefrost.dev/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/@aidrivencoder)
-[![Website](https://img.shields.io/badge/Website-Codefrost-purple)](https://codefrost.dev)
+[![YouTube](https://img.shields.io/badge/YouTube-2.3K-red)](https://youtube.com/@aidrivencoder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mamerto)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA)](https://aidrivencoder.com/discord)
+
+## 🏢 Codefrost
+
+At [Codefrost](https://codefrost.dev), we're revolutionizing software development through:
+- 🤖 AI-powered development solutions and consulting
+- 🚀 Custom SaaS product development and white-labeling
+- 💡 Innovative AI integration strategies
+- 📱 Progressive Web Apps (PWAs)
+- 🌐 Full-stack development services
+
+Our team combines decades of experience with cutting-edge AI tools to deliver exceptional software solutions. Through AI-Driven Coder, we share our expertise and empower developers worldwide.
+
+## 🎥 AI-Driven Coder
+
+Our [YouTube channel](https://youtube.com/@aidrivencoder) (2.3K+ subscribers) is the educational arm of Codefrost, focused on AI-powered development tools and techniques. We help developers leverage tools like Claude Artifacts, Bolt.new, and AI-powered coding extensions to enhance their workflow.
+
+### 📺 Popular Videos
+- Building Full-Stack Apps with AI Tools
+- Mastering Claude Artifacts for Development
+- AI-Powered VS Code Extensions Guide
+- Practical Tutorials on Bolt.new
+
+Join our thriving community on [Discord](https://aidrivencoder.com/discord)!
+
+## 🚀 Open Source Projects
+
+### [Bolt to GitHub Chrome Extension](https://github.com/mamertofabian/bolt-to-github)
+A powerful Chrome extension that bridges Bolt.new and GitHub:
+- 🔄 Commit/push Bolt projects directly to GitHub repositories
+- 📥 Load public and private GitHub repositories into Bolt
+- 🔗 Seamless integration between platforms
+
+### [ElevenLabs MCP Server](https://github.com/mamertofabian/elevenlabs-mcp-server)
+Model Context Protocol (MCP) server for ElevenLabs integration:
+- 🎙️ Text-to-speech API integration
+- 🌐 Server component with RESTful endpoints
+- 🎨 Sample web-based MCP Client in SvelteKit
+- 📊 Task management for voice generation
+
+### [Everything Search MCP Server](https://github.com/mamertofabian/mcp-everything-search)
+Cross-platform file search MCP server:
+- 🔍 Fast file searching across Windows, macOS, and Linux
+- 🪟 Windows: Everything SDK integration
+- 🍎 macOS: mdfind command utilization
+- 🐧 Linux: locate/plocate implementation
 
 ## 💼 Professional Background
 
 - ⚡ 20+ years in software development
-- 💻 Full-stack development expertise spanning C#, .NET, Python, Django
-- 🎨 Frontend mastery in JavaScript, Angular, Svelte, and React
-- 🏗️ Experience with e-commerce, construction management systems, and international engineering projects
-- 📊 Extensive database engineering experience
-- 🌐 Global project experience across multiple industries
+- 💻 Full-stack development expertise (C#, .NET, Python, Django)
+- 🎨 Frontend mastery (JavaScript, Angular, Svelte, React)
+- 🤖 AI solution architecture and implementation
+- 📊 Database engineering and cloud architecture
+- 🌐 Global project experience across industries
 
-## 🚀 What I Do
-
-- Founder of [Codefrost Software Development Services](https://codefrost.dev)
-- Creator of [AI-Driven Coder](https://aidrivencoder.com) - A YouTube channel demystifying AI-powered development
-- Full-stack development with modern technologies
-- AI solution architecture and implementation
-- SaaS product development and white-labeling
-
-## 🌟 Featured Project: AI-Driven Coder
-
-I'm building a comprehensive resource for developers navigating the AI-powered development landscape. Through [AI-Driven Coder](https://aidrivencoder.com), I share:
-
-- 🎥 Practical tutorials on AI development tools
-- 🔧 Real-world implementation challenges and solutions
-- 💻 Best practices for AI-assisted development
-- 🤝 Integration strategies for tools like Claude Artifacts, Aider, and more
-
-## 💡 Expertise
-
-- AI/ML Solutions Architecture
-- Full-Stack Development
-- Progressive Web Apps (PWAs)
-- SaaS Development & White-labeling
-- Database Engineering
-- Cloud Architecture
-
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
 - Languages: C#, Python, JavaScript/TypeScript
 - Frameworks: .NET, Django, Angular, React, Svelte
@@ -52,15 +72,34 @@ I'm building a comprehensive resource for developers navigating the AI-powered d
 - Database: SQL Server, PostgreSQL, MongoDB
 - AI/ML: TensorFlow, PyTorch, Hugging Face
 
+## 🌟 Featured Products
+
+### [TrulyHappy](https://trulyhappy.app)
+AI-powered PWA for well-being:
+- 📊 Contentment tracking
+- 🎯 AI-driven recommendations
+- 💪 Resilience building
+
+### [ArticuLearn](https://articulearn.app)
+Speech training platform:
+- 🗣️ Advanced shadowing
+- 🎯 Personalized learning
+- 🎮 Gamified experience
+
+### [SubsidyShare](https://subsidyshare.com)
+Software access democratization:
+- 🤝 Smart matching
+- 💳 Secure payments
+- 📊 Impact tracking
+
 ## 📫 Connect With Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aidrivencoder)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://aidrivencoder.com/discord)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aidrivencoder)
 [![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codefrost.dev)
-[![GitHub (aidrivencoder)](https://img.shields.io/badge/GitHub-aidrivencoder-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aidrivencoder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamerto)
 
-## 📅 Let's Talk
 - 📧 Email: mamerto@codefrost.com
 - 🗓️ Schedule a call: [Calendly](https://calendly.com/mamerto/30min)
 - 💼 Portfolio: [View My Work](https://mamerto.codefrost.dev/)
@@ -77,42 +116,12 @@ I'm always interested in connecting with fellow developers and potential collabo
 
 Feel free to reach out through any of my channels above!
 
-## 🎯 Current Focus
-
-- Building AI-powered development tools and workflows
-- Creating educational content about AI-assisted development
-- Developing innovative SaaS solutions
-- Contributing to open-source projects
-
-## 🛠️ Featured Products
-
-### [TrulyHappy](https://trulyhappy.app)
-An AI-powered progressive web app fostering lasting happiness and well-being through:
-- 📊 Contentment tracking with personalized insights
-- 💪 Resilience-building exercises
-- 🌟 Hope cultivation techniques
-- 🎯 AI-driven personalized recommendations
-
-### [ArticuLearn](https://articulearn.app)
-Revolutionary speech training platform featuring:
-- 🗣️ Advanced shadowing techniques
-- 🎯 Personalized learning paths
-- 🎤 Real-time speech recognition
-- 🎮 Gamified learning experience
-
-### [SubsidyShare](https://subsidyshare.com)
-Democratizing software access through:
-- 🤝 Smart sponsor-user matching
-- 💳 Secure payment processing
-- 📊 Impact tracking
-- 🔒 Privacy-first approach
-
 ---
 
 <div align="center">
 
 *"Building tomorrow's solutions with today's technology"*
 
-[Website](https://codefrost.dev) • [Portfolio](https://mamerto.codefrost.dev/) • [YouTube Channel](https://youtube.com/@aidrivencoder)
+[Website](https://codefrost.dev) • [Portfolio](https://mamerto.codefrost.dev/) • [YouTube](https://youtube.com/@aidrivencoder) • [Discord](https://aidrivencoder.com/discord)
 
 </div>
