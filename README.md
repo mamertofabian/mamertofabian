@@ -41,6 +41,13 @@ A powerful Chrome extension that bridges Bolt.new and GitHub:
 - 📥 Load public and private GitHub repositories into Bolt
 - 🔗 Seamless integration between platforms
 
+📦 **Install:** [Chrome Web Store](https://aidrivencoder.com/bolt-to-github)
+
+📺 **Tutorials:**
+- [How to Sync Bolt.new Projects with GitHub](https://youtu.be/7C03DNw9ZHI)
+- [Save Your Code Before You Lose it Forever](https://youtu.be/Yfnu67nbhNU)
+- [Importing Private GitHub Repositories to Bolt.new](https://youtu.be/d9NqXRoroi0)
+
 ### [ElevenLabs MCP Server](https://github.com/mamertofabian/elevenlabs-mcp-server)
 Model Context Protocol (MCP) server for ElevenLabs integration:
 - 🎙️ Text-to-speech API integration
@@ -48,12 +55,16 @@ Model Context Protocol (MCP) server for ElevenLabs integration:
 - 🎨 Sample web-based MCP Client in SvelteKit
 - 📊 Task management for voice generation
 
+📺 **Tutorial:** [Watch Demo & Implementation Guide](https://www.youtube.com/watch?v=FJdV-iE_Tps)
+
 ### [Everything Search MCP Server](https://github.com/mamertofabian/mcp-everything-search)
 Cross-platform file search MCP server:
 - 🔍 Fast file searching across Windows, macOS, and Linux
 - 🪟 Windows: Everything SDK integration
 - 🍎 macOS: mdfind command utilization
 - 🐧 Linux: locate/plocate implementation
+
+📺 **Tutorial:** [Watch Implementation Guide](https://www.youtube.com/watch?v=A0spAPTD4XY)
 
 ## 💼 Professional Background
 
