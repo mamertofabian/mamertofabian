@@ -35,6 +35,22 @@ Join our thriving community on [Discord](https://aidrivencoder.com/discord)!
 
 ## 🚀 Open Source Projects
 
+### [MAID Runner](https://github.com/mamertofabian/maid-runner)
+[![PyPI version](https://badge.fury.io/py/maid-runner.svg)](https://badge.fury.io/py/maid-runner)
+[![Python Version](https://img.shields.io/pypi/pyversions/maid-runner.svg)](https://pypi.org/project/maid-runner/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A tool-agnostic validation framework for Manifest-driven AI Development (MAID) methodology:
+- 🔍 Validates code artifacts against declarative manifests
+- 🏗️ Ensures architectural integrity in AI-assisted development
+- 📋 Supports Python and TypeScript/JavaScript
+- 🤖 Works with any AI tool (Claude Code, Cursor, Aider, etc.)
+- ✅ Dual-constraint validation (behavioral + structural)
+
+📦 **Install:** `pip install maid-runner`
+
+📺 **Tutorial:** [Watch Introduction to MAID Runner](https://youtu.be/0a9ys-F63fQ)
+
 ### [Bolt to GitHub Chrome Extension](https://github.com/mamertofabian/bolt-to-github)
 A powerful Chrome extension that bridges Bolt.new and GitHub:
 - 🔄 Commit/push Bolt projects directly to GitHub repositories
@@ -48,8 +64,12 @@ A powerful Chrome extension that bridges Bolt.new and GitHub:
 - [Save Your Code Before You Lose it Forever](https://youtu.be/Yfnu67nbhNU)
 - [Importing Private GitHub Repositories to Bolt.new](https://youtu.be/d9NqXRoroi0)
 
-### [ElevenLabs MCP Server](https://github.com/mamertofabian/elevenlabs-mcp-server)
-Model Context Protocol (MCP) server for ElevenLabs integration:
+### MCP Servers Collection
+
+Explore my collection of Model Context Protocol (MCP) servers at **[usemcp.dev](https://usemcp.dev)** (also accessible via [usemcp.com](https://usemcp.com)):
+
+#### [ElevenLabs MCP Server](https://github.com/mamertofabian/elevenlabs-mcp-server)
+Model Context Protocol server for ElevenLabs integration:
 - 🎙️ Text-to-speech API integration
 - 🌐 Server component with RESTful endpoints
 - 🎨 Sample web-based MCP Client in SvelteKit
@@ -57,7 +77,7 @@ Model Context Protocol (MCP) server for ElevenLabs integration:
 
 📺 **Tutorial:** [Watch Demo & Implementation Guide](https://www.youtube.com/watch?v=FJdV-iE_Tps)
 
-### [Everything Search MCP Server](https://github.com/mamertofabian/mcp-everything-search)
+#### [Everything Search MCP Server](https://github.com/mamertofabian/mcp-everything-search)
 Cross-platform file search MCP server:
 - 🔍 Fast file searching across Windows, macOS, and Linux
 - 🪟 Windows: Everything SDK integration
@@ -65,6 +85,8 @@ Cross-platform file search MCP server:
 - 🐧 Linux: locate/plocate implementation
 
 📺 **Tutorial:** [Watch Implementation Guide](https://www.youtube.com/watch?v=A0spAPTD4XY)
+
+🌐 **Browse all MCP servers:** [usemcp.dev](https://usemcp.dev)
 
 ## 💼 Professional Background
 
@@ -115,6 +137,7 @@ Software access democratization:
 - 🗓️ Schedule a call: [Calendly](https://calendly.com/mamerto/30min)
 - 💼 Portfolio: [View My Work](https://mamerto.codefrost.dev/)
 - 💻 Company: [Codefrost](https://codefrost.dev)
+- 🔌 MCP Servers: [usemcp.dev](https://usemcp.dev)
 
 ## 🤝 Open for Collaboration
 
@@ -124,6 +147,7 @@ I'm always interested in connecting with fellow developers and potential collabo
 - 🌐 Full-stack web development
 - 📱 Progressive Web Apps
 - 🚀 SaaS projects
+- 🔌 Model Context Protocol (MCP) integrations
 
 Feel free to reach out through any of my channels above!
 
@@ -133,6 +157,6 @@ Feel free to reach out through any of my channels above!
 
 *"Building tomorrow's solutions with today's technology"*
 
-[Website](https://codefrost.dev) • [Portfolio](https://mamerto.codefrost.dev/) • [YouTube](https://youtube.com/@aidrivencoder) • [Discord](https://aidrivencoder.com/discord)
+[Website](https://codefrost.dev) • [Portfolio](https://mamerto.codefrost.dev/) • [YouTube](https://youtube.com/@aidrivencoder) • [Discord](https://aidrivencoder.com/discord) • [MCP Servers](https://usemcp.dev)
 
 </div>
