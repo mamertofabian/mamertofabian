@@ -9,6 +9,7 @@ With over two decades of software development experience, I lead [Codefrost](htt
 [![YouTube](https://img.shields.io/badge/YouTube-2.3K-red)](https://youtube.com/@aidrivencoder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mamerto)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289DA)](https://aidrivencoder.com/discord)
+[![Claude Certified Architect](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect%20(CCA--F)-d97757)](https://verify.skilljar.com/c/t2gbzkije4xe)
 
 ## 🏢 Codefrost
 
@@ -96,6 +97,13 @@ Cross-platform file search MCP server:
 - 🤖 AI solution architecture and implementation
 - 📊 Database engineering and cloud architecture
 - 🌐 Global project experience across industries
+
+## 🎓 Certifications
+
+### [Claude Certified Architect – Foundations (CCA-F)](https://verify.skilljar.com/c/t2gbzkije4xe) — Anthropic
+The first official technical certification from Anthropic, validating expertise in building production-grade applications with Claude — covering agentic architecture, tool design & MCP integration, Claude Code workflows, prompt engineering, and context management.
+
+✅ **Verify:** [verify.skilljar.com](https://verify.skilljar.com/c/t2gbzkije4xe)
 
 ## 🛠️ Tech Stack
 
